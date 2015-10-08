@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/itodais/archive-of-learning.png?label=ready&title=Ready)](https://waffle.io/itodais/archive-of-learning)
 # 勉強用リポジトリの集積所
 Publicなら上限ないし、特にまとめる意味もない？
 
